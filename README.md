@@ -1,4 +1,6 @@
 # Home-Credit-Default-Risk
+- https://www.kaggle.com/code/yfwei36/home-credit-default-risk-ipynb
+
 ### Business Problem
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders. Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 
@@ -33,3 +35,8 @@ Repayment history for the previously disbursed credits in Home Credit related to
 ### Part 4: Models Evaluation
 ### Part 5: Prediciton
 ### Part 6: Business Recommendation
+### References:
+- https://www.kaggle.com/code/quangnv22/home-credit-risk
+- https://www.kaggle.com/code/codename007/home-credit-complete-eda-feature-importance/notebook
+- https://www.kaggle.com/code/shivamb/homecreditrisk-extensive-eda-baseline-0-772
+- https://www.kaggle.com/code/gpreda/home-credit-default-risk-extensive-eda
